@@ -5,6 +5,6 @@
  By far, I have learnt:
  1. html/css basics.
  2. JavaScript
- 3. Replit,com
+ 3. Replit.com
 
 
